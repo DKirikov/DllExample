@@ -6,3 +6,5 @@ It contains 2 project: LibTest & TestDinamicLibrary.
 TestDinamicLibrary creates testDinamicLibrary.dll.
 LibTest connects and uses this dll and DinLibTest.h.
 lib file is not used.
+
+To find more, read an arcticle at https://rsdn.org/article/baseserv/dlluse.xml
